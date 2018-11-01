@@ -157,7 +157,7 @@
 
     {
         type: 'pictorialBar', 
-        data: dataModel2,
+        data: data, // 放数据
         barGap:"10%",
         symbolRepeat:true,
         symbolMargin:2,
