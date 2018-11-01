@@ -96,8 +96,9 @@
 
 #### 效果如图
 
-    图1
+![Image text](https://raw.githubusercontent.com/territoryfan/echarts/master/1.jpg)
 
+      
 ### 坐标轴文本内容太长显示省略号，鼠标移入并显示全部
 
 #### 坐标轴省略号显示
@@ -148,7 +149,7 @@
     });
 #### 如图
     
-    图2
+![Image text](https://raw.githubusercontent.com/territoryfan/echarts/master/2.jpg)
     
 ### 每个点的顶部到x轴添加虚线
 
@@ -167,4 +168,4 @@
     }
 #### 效果如图
     
-    图3
+![Image text](https://raw.githubusercontent.com/territoryfan/echarts/master/3.jpg)
